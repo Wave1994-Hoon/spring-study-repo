@@ -10,6 +10,8 @@
 - 액츄에이터 제공
 ```
 
+<br>
+
 ## Gradle
 (1) 장점
 ```
@@ -20,7 +22,7 @@
   
 (2) dir 구조
 
-  <img width="656" src="https://user-images.githubusercontent.com/60383031/114418838-db13e280-9bed-11eb-8977-c9be49055942.png">
+  <img width="300" src="https://user-images.githubusercontent.com/60383031/114418838-db13e280-9bed-11eb-8977-c9be49055942.png">
   
 
 (2) 설정 파일
@@ -30,6 +32,8 @@
 - gradle/wrapper/gradle.jar: Gradle 를 다운로드 하기 위한 코드가 들어 있는 Wrapper JAR 파일, 파일 무결성을 위해 git에 저장된 gradle과 checkSum 비교를 통해 무결성 검증 
 - gradle/wrapper/gradle-wrapper.properties: 그레이들 설정 정보 프로퍼티 파일
 ```
+
+<br>
 
 ## Annotation
 (1) @RestController
